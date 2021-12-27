@@ -1,0 +1,2 @@
+espaço para anotaçoes sobre git /github
+1' git bash é um terminal estendido para otimizar o uso do git.
